@@ -1,3 +1,4 @@
+![logo](https://github.com/Mianse/Mianse-Mianse/blob/main/Programming%20Color%20Code%20Character%20Background%20Wallpaper%20Image%20For%20Free%20Download%20-%20Pngtree.jpg)
 <h1 align="center">Hi 👋, I'm Damian Orina</h1>
 <h3 align="center">A passionate full-stack developer from Nairobi Kenya</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA&usqp=CAU">
